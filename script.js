@@ -40,9 +40,9 @@ $(document).ready(function () {
   
     var typed = new Typed(".typing", {
       strings: [
-        "Web Developer",
+        "Fullstack Developer",
         "Software Developer",
-        "Python Developer",
+        "Frontend Developer",
         "Coder"
       ],
       typeSpeed: 100,
@@ -52,9 +52,9 @@ $(document).ready(function () {
   
     var typed = new Typed(".typing-2", {
       strings: [
-        "Web Developer",
+        "Fullstack Developer",
         "Software Developer",
-        "Python Developer",
+        "Frontend Developer",
         "Coder"
       ],
       typeSpeed: 100,
